@@ -13,6 +13,21 @@ Awesome list for Hyprland, that includes useful tools and libraries that either 
 - [Plugins](#plugins)
     - [Official Plugins](#official-plugins)
     - [IPC Plugins](#ipc-plugins)
+- [Tools](#tools)
+    - [Official Tools](#official-tools)
+    - [Status Bar/Shell](#status-barshell)
+    - [Notifications](#notifications)
+        - [Notification Daemons](#notification-daemons)
+        - [OSD](#osd)
+        - [Misc](#misc)
+    - [Runners, Menus, and Application Launchers](#runners-menus-and-application-launchers)
+    - [Wallpaper](#wallpaper)
+    - [Display](#display)
+    - [Workspace](#workspace)
+    - [Screenshotting](#screenshotting)
+        - [All in One Tools](#all-in-one-tools)
+        - [Raw Tools](#raw-tools)
+        
 
 ## Language Bindings
 
