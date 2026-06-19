@@ -4,6 +4,16 @@
 
 Awesome list for Hyprland, that includes useful tools and libraries that either work or are designed for Hyprland!
 
+
+# Sections:
+
+- [Language Bindings](#language-bindings)
+- [Hyprlang Configuration Tools](#hyprlang-configuration-tools)
+- [Config Managers](#config-managers)
+- [Plugins](#plugins)
+    - [Official Plugins](#official-plugins)
+    - [IPC Plugins](#ipc-plugins)
+
 ## Language Bindings
 
 - [Hyprland-rs](https://github.com/hyprland-community/hyprland-rs) ![rust][rs] (events, hyprctl, binds)
