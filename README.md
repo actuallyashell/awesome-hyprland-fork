@@ -6,14 +6,14 @@ Awesome list for Hyprland, that includes useful tools and libraries that either 
 
 # Sections:
 
-| Config & Core | Plugins | System UI & Menus | Display & Aesthetics | System Utilities | Screenshotting & Media |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| [Language Bindings](#language-bindings) | [Plugins](#plugins) | [Status Bar/Shell](#status-barshell) | [Wallpaper](#wallpaper) | [Tools](#tools) | [Screenshotting](#screenshotting) |
-| [Hyprlang Configuration Tools](#hyprlang-configuration-tools) | [Official Plugins](#official-plugins) | [Notifications](#notifications) | [Display](#display) | [Official Tools](#official-tools) | [All in One Tools](#all-in-one-tools) |
-| [Config Managers](#config-managers) | [IPC Plugins](#ipc-plugins) | [Notification Daemons](#notification-daemons) | [Workspace](#workspace) | [Misc](#misc) | [Raw Tools](#raw-tools) |
-| | | [OSD](#osd) | | | |
-| | | [Runners, Menus, and Application Launchers](#runners-menus-and-application-launchers) | | | |
-
+| Configs | Plugins | Tools | Notifications | General |
+| :--- | :--- | :--- | :--- | :--- |
+| [Language Bindings](#language-bindings) | [Plugins](#plugins) | [Tools](#tools) | [Notifications](#notifications) | [Misc](#misc) |
+| [Configuration Tools](#hyprlang-configuration-tools) | [Official Plugins](#official-plugins) | [Official Tools](#official-tools) | [Notification Daemons](#notification-daemons) | [Workspace](#workspace) |
+| [Config Managers](#config-managers) | [IPC Plugins](#ipc-plugins) | [Status Bar & Shell](#status-barshell) | [OSD](#osd) | [Screenshotting](#screenshotting) |
+| | | [Launchers & Menus](#runners-menus-and-application-launchers) | | [All-in-One Tools](#all-in-one-tools) |
+| | | [Wallpaper](#wallpaper) | | [Raw Tools](#raw-tools) |
+| | | [Display](#display) | | |
 
 ## Language Bindings
 
